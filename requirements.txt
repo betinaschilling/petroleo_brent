@@ -1,0 +1,4 @@
+# Lista de dependências do projeto
+pandas
+numpy
+scikit-learn
