@@ -1,4 +1,6 @@
 __pycache__/
-*.pyc
+.ipynb_checkpoints/
+1_data/output/
 .env
+*.pyc
 .DS_Store
